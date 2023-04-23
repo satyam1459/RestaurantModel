@@ -1,4 +1,4 @@
-<h1 align="center"> URL Hit Counter</h1>
+<h1 align="center"> Restaurant Model</h1>
 
 >### Framework Used 
 * [SpringBoot](javatpoint.com/spring-boot-tutorial)
